@@ -1,7 +1,5 @@
-# Assignment #2
 The purpose of this assignment is to familiarize you with n-gram language modeling and a handful of smoothing techniques.
 
-Name: Zeynep Marasli 
 
 PROGRAM 1: letterLangId.ipynb
     - This program implements 3 Letter Bigram Models in order to classify whether an input sentence is English, Italian, or French without any smoothing and with add-one smoothing. Its algorithm is as follows:
