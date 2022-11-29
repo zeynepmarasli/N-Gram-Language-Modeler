@@ -1,0 +1,21 @@
+Name: Zeynep Marasli
+
+# Outline the system structure (including necessary files and directories for running the code)
+1. FOR ALL FILES IN ../assignment-2-zeynepmarasli/src/Code:
+   Training files: ../assignment-2-zeynepmarasli/src/Data/Input/LangId.train.English
+                   ../assignment-2-zeynepmarasli/src/Data/Input/LangId.train.French
+                   ../assignment-2-zeynepmarasli/src/Data/Input/LangId.train.Italian
+                   
+   Validation/Testing: ../assignment-2-zeynepmarasli/src/Data/Input/Validation/labels.sol
+                       ../assignment-2-zeynepmarasli/src/Data/Input/Validation/LangId.test
+                       
+2. For ../assignment-2-zeynepmarasli/src/Code/letterLangId.ipynb:
+    Output: ../assignment-2-zeynepmarasli/src/Data/Output/letterLangId.out
+ 
+3. For ../assignment-2-zeynepmarasli/src/Code/wordLangId.ipynb:
+    Output: ../assignment-2-zeynepmarasli/src/Data/Output/wordLangId.out
+
+4. For ../assignment-2-zeynepmarasli/src/Code/wordLangId2.ipynb:
+    Output: ../assignment-2-zeynepmarasli/src/Data/Output/wordLangId2.out
+
+- All programs should run under 5 minutes 
